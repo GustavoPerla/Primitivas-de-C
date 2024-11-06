@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1730877382 source:c:\users\usuario\onedrive - universidad nacional de la matanza\escritorio\facultad\topicos de la programacion\modelo de parcial\main.c
+	<stdio.h>
+	"Vector.h"
+	"Archivos.h"
+
+1730867964 source:c:\users\usuario\onedrive - universidad nacional de la matanza\escritorio\facultad\topicos de la programacion\modelo de parcial\vector.c
+	"Vector.h"
+
+1730868272 c:\users\usuario\onedrive - universidad nacional de la matanza\escritorio\facultad\topicos de la programacion\modelo de parcial\vector.h
+	<stdlib.h>
+
+1730877899 source:c:\users\usuario\onedrive - universidad nacional de la matanza\escritorio\facultad\topicos de la programacion\modelo de parcial\archivos.c
+	"Archivos.h"
+
+1730877436 c:\users\usuario\onedrive - universidad nacional de la matanza\escritorio\facultad\topicos de la programacion\modelo de parcial\archivos.h
+	"Vector.h"
+	<stdio.h>
+	<string.h>
+
