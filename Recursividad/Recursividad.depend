@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1732069063 source:/home/tyos/Escritorio/Facultad/Topicos/Primitivas-de-C/Recursividad/Funciones.c
+	"Funciones.h"
+	<string.h>
+
+1732066737 /home/tyos/Escritorio/Facultad/Topicos/Primitivas-de-C/Recursividad/Funciones.h
+	"../Vector/Vector.h"
+	<stdlib.h>
+	<stdbool.h>
+
+1732067120 source:/home/tyos/Escritorio/Facultad/Topicos/Primitivas-de-C/Recursividad/main.c
+	<stdio.h>
+	"Funciones.h"
+	"../Vector/Vector.c"
+
+1732058941 /home/tyos/Escritorio/Facultad/Topicos/Primitivas-de-C/Vector/Vector.h
+	<stdlib.h>
+
+1732059909 /home/tyos/Escritorio/Facultad/Topicos/Primitivas-de-C/Vector/Vector.c
+	"Vector.h"
+

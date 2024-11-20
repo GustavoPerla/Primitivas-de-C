@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1732059502 source:/home/tyos/Escritorio/Facultad/Topicos/Primitivas-de-C/Vector/main.c
+	<stdio.h>
+	"Vector.h"
+	<string.h>
+
+1732058941 /home/tyos/Escritorio/Facultad/Topicos/Primitivas-de-C/Vector/Vector.h
+	<stdlib.h>
+
+1732058975 source:/home/tyos/Escritorio/Facultad/Topicos/Primitivas-de-C/Vector/Vector.c
+	"Vector.h"
+
