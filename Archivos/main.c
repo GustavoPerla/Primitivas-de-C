@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    crearArch("Emp.dat","Nov.dat");
     return 0;
 }
